@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(11, 11, 44);
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 100px;
+    padding-left: 50px;
+
+}
+.logo {
+    color: aliceblue;
+    font-size: 30px;
+}
+.ul {
+    display: flex;
+    justify-content:space-around;
+    gap: 70px;
+    
+    
+    
+}
+ul a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    /* border-bottom: 2px solid ; */
+}
+ul a:hover{
+    
+    color:  rgb(65, 65, 240);
+}
+.section-1{
+    display: flex;
+    color: aliceblue;
+}
+.part-1{
+    padding: 150px;
+    font-size: 25px;
+    line-height: 25px;
+    padding-left: 150px;
+}
+.part-1 h3{
+    color: rgb(65, 65, 240);
+}
+.part-1 p{
+    font-size: 15px;
+}
+.icons{
+    color: aliceblue;
+    display: flex;
+    gap: 20px;
+}
+.part-2{
+    padding: 150px;
+    
+button{
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+}
+}
+.part-2 img{
+    border-radius: 50%;
+    height: 350px;
+
+}
