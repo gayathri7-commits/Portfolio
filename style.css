@@ -490,3 +490,25 @@ p, h1, h2, h3 {
     color: white;
     transform: translateY(-5px);
 }
+
+
+/* RESPONSIVE */
+@media(max-width:768px){
+
+    .nav{
+        flex-direction:column;
+        gap:10px;
+        position: relative;
+    }
+
+    .ul{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .section-1,
+    .section-2{
+        flex-direction:column;
+        text-align:center;
+    }
+}
