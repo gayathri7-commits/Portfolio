@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal developer portfolio. This website serves as a centralized hub to showcase my technical engineering skillset, full-stack projects, internship experiences, and academic achievements. 
 
-🚀 **[Live Demo](https://portfolio-brown-ten-91kv1hr8gr.vercel.app/)** *(Update this with your deployed Vercel or GitHub Pages link!)*
+🚀 **[Live Demo](https://portfolio-brown-ten-91kv1hr8gr.vercel.app/)** 
 
 ---
 
